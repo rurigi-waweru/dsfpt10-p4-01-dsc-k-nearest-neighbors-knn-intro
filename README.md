@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section you'll look at an intuitive algorithm known as K-Nearest Neighbors (KNN). KNN is an effective classification and regression algorithm that uses nearby points in order to generate a prediction. 
+In this section, you'll look at an intuitive algorithm known as K-Nearest Neighbors (KNN). KNN is an effective classification and regression algorithm that uses nearby points in order to generate a prediction. 
 
 
 ## KNN 
@@ -25,9 +25,9 @@ An incredibly important decision when using the KNN algorithm is determining an 
 
 ## K-means
 
-While outside the scope of this section, it is worth mentioning the related K-means algorithm which uses similar principles as KNN but serves as an unsupervised learning clustering algorithm. In the K-means algorithm, K represents the number of clusters rather then the number of neighbors. Unlike KNN, K-means is an iterative algorithm which repeats until convergence. Nonetheless, its underlying principle is the same, in that it groups data points together using a distance metric in order to create homogeneous groupings.
+While outside the scope of this section, it is worth mentioning the related K-means algorithm which uses similar principles as KNN but serves as an unsupervised learning clustering algorithm. In the K-means algorithm, K represents the number of clusters rather than the number of neighbors. Unlike KNN, K-means is an iterative algorithm that repeats until convergence. Nonetheless, its underlying principle is the same, in that it groups data points together using a distance metric in order to create homogeneous groupings.
 
 
 ## Summary
 
-In this brief lesson, you were introduced to the KNN algorithm. From here, you'll jump straight to the details of KNN, practice coding your own implementation and then get an introduction to use pre-built tools within scikit-learn for KNN.
+In this brief lesson, you were introduced to the KNN algorithm. From here, you'll jump straight to the details of KNN, practice coding your own implementation, and then get an introduction to using pre-built tools within scikit-learn for KNN.
